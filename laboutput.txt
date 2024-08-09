@@ -1,0 +1,501 @@
+test_0 (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for file creation: ./lab7a.py ... ok
+test_1 (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for file creation: ./lab7a1.py ... ok
+test_a (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for errors running: ./lab7a1.py ... FAIL
+test_a1 (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for correct shebang line: ./lab7a1.py ... ok
+test_a_instantiate_class_0 (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for Creating object - should fail with 4 arguments ... ok
+test_a_instantiate_class_1 (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for Creating object - should fail with string arguments ... ok
+test_b1_sum_times (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for sum_times() - should provide the correct output ... FAIL
+test_b2_sum_times (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for sum_times() - should provide the correct output ... FAIL
+test_0 (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for file creation: ./lab7b.py ... ok
+test_a1 (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for correct shebang line: ./lab7b.py ... ok
+test_a_instantiate_class_0 (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for Creating object - should fail with 4 arguments ... ok
+test_a_instantiate_class_1 (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for Creating object - should fail with string arguments ... ok
+test_b1_change_time (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for change_time() with +1800 seconds ... FAIL
+test_b2_change_time (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for change_time() with -1800 seconds ... FAIL
+test_0 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for file creation: ./lab7c.py ... FAIL
+test_1 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for file creation: ./lab7c1.py ... FAIL
+test_a (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for errors running: ./lab7c1.py ... FAIL
+test_a_instantiate_class_0 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for Creating object - should fail with 4 arguments ... ok
+test_a_instantiate_class_1 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for Creating object - should fail with string arguments ... ok
+test_b1_time_to_sec (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for time_to_sec() function in ./lab7c.py ... FAIL
+test_b2_sec_to_time (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for sec_to_time() function in .lab7c.py ... FAIL
+test_0 (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for file creation: ./lab7d.py ... FAIL
+test_a_instantiate_class_0 (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for Creating object in ./lab7d.py - should fail with 4 arguments ... ok
+test_a_instantiate_class_1 (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for Creating object in ./lab7d.py - should fail with string arguments ... ok
+test_b1_time_to_sec (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for time_to_sec() method in ./lab7d.py ... FAIL
+test_b2_format_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for format_time() method in ./lab7d.py ... FAIL
+test_b3_sum_times (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for sum_times() method in ./lab7d.py ... FAIL
+test_b4_change_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for change_time() method in ./lab7d.py ... FAIL
+test_b5_valid_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for invalid time using valid_time() method in ./lab7d.py ... FAIL
+test_b6_valid_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for valid time using valid_time() method in ./lab7d.py ... FAIL
+test_b7_sec_to_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for sec_to_time() function in ./lab7d.py ... FAIL
+test_0 (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Special object methods - Test for file creation: ./lab7e.py ... FAIL
+test_b1_import (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for importing ./lab7e.py ... FAIL
+test_b2_create_object (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for creating time object in ./lab7e.py ... FAIL
+test_b3_str (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for __str__ method in ./lab7e.py ... FAIL
+test_b4_repr (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for __repr__ method in ./lab7e.py ... FAIL
+test_0 (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Operator overloading - Test for file creation: ./lab7f.py ... FAIL
+test_b1_import (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for importing ./lab7f.py ... FAIL
+test_b2_create_object (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for creating time object in ./lab7f.py ... FAIL
+test_b3_operator_overloading (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for operator overloading for + in ./lab7f.py ... FAIL
+test_0 (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Local/Global Scope - Test for file creation: ./lab7i.py ... FAIL
+test_b1_run (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for successful execution: ./lab7i.py ... FAIL
+test_b2_run (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for correct output: ./lab7i.py ... FAIL
+
+======================================================================
+FAIL: test_a (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for errors running: ./lab7a1.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 51, in test_a
+    self.assertEqual(return_code, 0, msg=error_output)
+AssertionError: 1 != 0 : Your lab7a1.py script exited with a error(HINT: make sure you copied the script exactly!)
+
+======================================================================
+FAIL: test_b1_sum_times (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for sum_times() - should provide the correct output
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 83, in test_b1_sum_times
+    result = lab7aStudent.format_time(timeSum)
+AttributeError: module 'lab7a' has no attribute 'format_time'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 85, in test_b1_sum_times
+    self.fail(error_fail)
+AssertionError: sum_times() in lab7a.py contains errors(HINT: run the lab7a1.py script and fix errors)
+
+======================================================================
+FAIL: test_b2_sum_times (__main__.lab7a)
+[Lab 7] - [Investigation 1] - [Part 1] - Test for sum_times() - should provide the correct output
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 98, in test_b2_sum_times
+    result = lab7aStudent.format_time(timeSum)
+AttributeError: module 'lab7a' has no attribute 'format_time'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 100, in test_b2_sum_times
+    self.fail(error_fail)
+AssertionError: sum_times() in lab7a.py contains errors(HINT: run the lab7a1.py script and fix errors)
+
+======================================================================
+FAIL: test_b1_change_time (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for change_time() with +1800 seconds
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 140, in test_b1_change_time
+    x = lab7bStudent.change_time(time1,1800)
+AttributeError: module 'lab7b' has no attribute 'change_time'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 143, in test_b1_change_time
+    self.fail(error_fail)
+AssertionError: change_time() in lab7b.py contains errors(HINT: check change_time() function and fix errors)
+
+======================================================================
+FAIL: test_b2_change_time (__main__.lab7b)
+[Lab 7] - [Investigation 1] - [Part 2] - Test for change_time() with -1800 seconds
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 154, in test_b2_change_time
+    x = lab7bStudent.change_time(time1, -1800)
+AttributeError: module 'lab7b' has no attribute 'change_time'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 157, in test_b2_change_time
+    self.fail(error_fail)
+AssertionError: change_time() in lab7b.py contains errors(HINT: check change_time() function and fix errors)
+
+======================================================================
+FAIL: test_0 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for file creation: ./lab7c.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 167, in test_0
+    self.assertTrue(os.path.exists('./lab7c.py'), msg=error_output)
+AssertionError: False is not true : file lab7c.py cannot be found(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_1 (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for file creation: ./lab7c1.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 172, in test_1
+    self.assertTrue(os.path.exists('./lab7c1.py'), msg=error_output)
+AssertionError: False is not true : file lab7c1.py cannot be fount(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_a (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for errors running: ./lab7c1.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 182, in test_a
+    self.assertEqual(return_code, 0, msg=error_output)
+AssertionError: 2 != 0 : Your lab7c1.py script exited with a error(HINT: make sure you copied the script exactly!)
+
+======================================================================
+FAIL: test_b1_time_to_sec (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for time_to_sec() function in ./lab7c.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 202, in test_b1_time_to_sec
+    import lab7c as lab7cStudent
+ModuleNotFoundError: No module named 'lab7c'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 206, in test_b1_time_to_sec
+    self.fail(error_fail)
+AssertionError: time_to_sec() in lab7c.py contains errors(HINT: run the lab7c1.py script and fix errors)
+
+======================================================================
+FAIL: test_b2_sec_to_time (__main__.lab7c)
+[Lab 7] - [Investigation 1] - [Part 3] - Test for sec_to_time() function in .lab7c.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 215, in test_b2_sec_to_time
+    import lab7c as lab7cStudent
+ModuleNotFoundError: No module named 'lab7c'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 220, in test_b2_sec_to_time
+    self.fail(error_fail)
+AssertionError: sec_to_time() in lab7c.py contains errors(HINT: run the lab7c1.py script and fix errors)
+
+======================================================================
+FAIL: test_0 (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for file creation: ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 230, in test_0
+    self.assertTrue(os.path.exists('./lab7d.py'), msg=error_output)
+AssertionError: False is not true : file lab7d.py cannot be found(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_b1_time_to_sec (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for time_to_sec() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 250, in test_b1_time_to_sec
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 254, in test_b1_time_to_sec
+    self.fail(error_fail)
+AssertionError: time_to_sec() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b2_format_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for format_time() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 263, in test_b2_format_time
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 267, in test_b2_format_time
+    self.fail(error_fail)
+AssertionError: format_time() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b3_sum_times (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for sum_times() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 276, in test_b3_sum_times
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 282, in test_b3_sum_times
+    self.fail(error_fail)
+AssertionError: sum_times() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b4_change_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for change_time() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 291, in test_b4_change_time
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 297, in test_b4_change_time
+    self.fail(error_fail)
+AssertionError: change_time() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b5_valid_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for invalid time using valid_time() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 306, in test_b5_valid_time
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 310, in test_b5_valid_time
+    self.fail(error_fail)
+AssertionError: valid_time() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b6_valid_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for valid time using valid_time() method in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 319, in test_b6_valid_time
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 323, in test_b6_valid_time
+    self.fail(error_fail)
+AssertionError: valid_time() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b7_sec_to_time (__main__.lab7d)
+[Lab 7] - [Investigation 2] - [Part 1] - Test for sec_to_time() function in ./lab7d.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 332, in test_b7_sec_to_time
+    import lab7d as lab7dStudent
+ModuleNotFoundError: No module named 'lab7d'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 336, in test_b7_sec_to_time
+    self.fail(error_fail)
+AssertionError: sec_to_time() in lab7d.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_0 (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Special object methods - Test for file creation: ./lab7e.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 346, in test_0
+    self.assertTrue(os.path.exists('./lab7e.py'), msg=error_output)
+AssertionError: False is not true : file lab7e.py cannot be found(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_b1_import (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for importing ./lab7e.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 353, in test_b1_import
+    import lab7e as lab7eStudent
+ModuleNotFoundError: No module named 'lab7e'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 355, in test_b1_import
+    self.fail(error_fail)
+AssertionError: error trying to import lab7e.py (HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b2_create_object (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for creating time object in ./lab7e.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 362, in test_b2_create_object
+    import lab7e as lab7eStudent
+ModuleNotFoundError: No module named 'lab7e'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 365, in test_b2_create_object
+    self.fail(error_fail)
+AssertionError: Error trying to create time object in lab7e.py (HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b3_str (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for __str__ method in ./lab7e.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 372, in test_b3_str
+    import lab7e as lab7eStudent
+ModuleNotFoundError: No module named 'lab7e'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 376, in test_b3_str
+    self.fail(error_fail)
+AssertionError: __str__() in lab7e.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b4_repr (__main__.lab7e)
+[Lab 7] - [Investigation 2] - [Part 2] - Test for __repr__ method in ./lab7e.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 385, in test_b4_repr
+    import lab7e as lab7eStudent
+ModuleNotFoundError: No module named 'lab7e'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 389, in test_b4_repr
+    self.fail(error_fail)
+AssertionError: _ repr__() in lab7e.py contains errors(HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_0 (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Operator overloading - Test for file creation: ./lab7f.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 400, in test_0
+    self.assertTrue(os.path.exists('./lab7f.py'), msg=error_output)
+AssertionError: False is not true : file lab7f.py cannot be found(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_b1_import (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for importing ./lab7f.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 407, in test_b1_import
+    import lab7f as lab7fStudent
+ModuleNotFoundError: No module named 'lab7f'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 409, in test_b1_import
+    self.fail(error_fail)
+AssertionError: error trying to import lab7f.py (HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b2_create_object (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for creating time object in ./lab7f.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 416, in test_b2_create_object
+    import lab7f as lab7fStudent
+ModuleNotFoundError: No module named 'lab7f'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 419, in test_b2_create_object
+    self.fail(error_fail)
+AssertionError: Error trying to create time object in lab7f.py (HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_b3_operator_overloading (__main__.lab7f)
+[Lab 7] - [Investigation 2] - [Part 3] - Test for operator overloading for + in ./lab7f.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 426, in test_b3_operator_overloading
+    import lab7f as lab7fStudent
+ModuleNotFoundError: No module named 'lab7f'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 432, in test_b3_operator_overloading
+    self.fail(error_fail)
+AssertionError: Error trying add to time object in lab7f.py (HINT: review the script and fix errors)
+
+======================================================================
+FAIL: test_0 (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Local/Global Scope - Test for file creation: ./lab7i.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 442, in test_0
+    self.assertTrue(os.path.exists('./lab7i.py'), msg=error_output)
+AssertionError: False is not true : file lab7i.py cannot be found(HINT: make sure you AND your file are in the correct directory)
+
+======================================================================
+FAIL: test_b1_run (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for successful execution: ./lab7i.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 452, in test_b1_run
+    self.assertEqual(return_code, 0, msg=error_output)
+AssertionError: 2 != 0 : your program exited with a error(HINT: make sure you script produce the exact output!)
+
+======================================================================
+FAIL: test_b2_run (__main__.lab7i)
+[Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for correct output: ./lab7i.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/abrarh/Documents/Seneca Courses/OPS445/Lab 7/./CheckLab7.py", line 463, in test_b2_run
+    self.assertEqual(stdout, expected_output, msg=error_output)
+AssertionError: b'' != b'print() in main on schoolName: Seneca\npr[152 chars]DO\n' : output of your script does not match what is expected (HINT: make sure you script produce the exact output!)
+
+----------------------------------------------------------------------
+Ran 43 tests in 0.042s
+
+FAILED (failures=30)
